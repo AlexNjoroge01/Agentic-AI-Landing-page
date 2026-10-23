@@ -1,3 +1,6 @@
-# https://www.robotstxt.org/robotstxt.html
+# Agentic AI Lab — crawling policy
 User-agent: *
-Disallow:
+Allow: /
+
+# Sitemap: set the production domain, then uncomment:
+# Sitemap: https://YOUR-PRODUCTION-DOMAIN/sitemap.xml
